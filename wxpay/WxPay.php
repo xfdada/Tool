@@ -12,10 +12,10 @@ use lib\WxPay\WxPayCommon;
 
 class WxPay extends WxPayCommon
 {
-    private $appid = "wx41e8fb1a21385bc6";//小程序ID
-    private $mch_id = "1380014902";//商户id
-    private $device_info = "1000";//设备号
-    private $key = "0a0af7ddf29466175c9150ce6c1efc6b";//商户key
+    private $appid = "wx41e8fb1a2138gf45";//小程序ID
+    private $mch_id = "138005446466";//商户id
+    private $device_info = "10044540";//设备号
+    private $key = "0a0af7ddf2946617543543dfgdsgdsg";//商户key
     public function __construct($privatePage = false)
     {
         parent::__construct();
