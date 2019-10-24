@@ -9,7 +9,7 @@ class Mail{
     private $smtpserverport =25;//SMTP服务器端口
     private $smtpusermail = "xiangfudada@163.com";//SMTP服务器的用户邮箱
     private $smtpuser = "xiangfudada@163.com";//SMTP服务器的用户帐号，注：部分邮箱只需@前面的用户名
-    private $smtppass = "xfdada12";//SMTP服务器的授权码  请到邮箱设置里面进行申请
+    private $smtppass = "000000";//SMTP服务器的授权码  请到邮箱设置里面进行申请
 
     /**
      * @param $smtpemailto   要发送给谁  发送者的邮箱地址
